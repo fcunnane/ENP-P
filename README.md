@@ -1,8 +1,12 @@
 # ENP-P: Electrical Non-Persistence Primitive  
 ### Reference FPGA Artifact — 64×256-bit Single-Use Measurement Cells  
+
 **Author:** Francis X. Cunnane III (QSymbolic LLC)  
 **Paper:** *A CMOS Electrical Non-Persistence Primitive for Single-Use Secrets*  
-**Repository:** https://github.com/fcunnane/ENP-P
+**Repository:** https://github.com/fcunnane/ENP-P  
+
+**Patent Pending:** US 19/286,600
+
 
 ---
 
