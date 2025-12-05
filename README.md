@@ -1,6 +1,3 @@
-# ✅ **`README.md` for ENP-P Repository**
-
-```markdown
 # ENP-P: Electrical Non-Persistence Primitive  
 ### Reference FPGA Artifact — 64×256-bit Single-Use Measurement Cells  
 **Author:** Francis X. Cunnane III (QSymbolic LLC)  
